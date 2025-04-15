@@ -322,7 +322,7 @@ section a {
 /* Mobile Menu */
 .mobile-menu {
   position: fixed;
-  top: 85px;
+  top: 95px;
   right: 0;
   background-color: #fff;
   color: #000;
